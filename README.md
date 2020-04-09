@@ -6,7 +6,7 @@
 
 - [排序算法【计数排序】](https://mp.weixin.qq.com/s/PLKbj3-7cy1TsO3YVyzewQ)
 
-### :derelict_house: 数据库
+### :books: 数据库
 
 - [MySQL必知必会笔记（1）](https://mp.weixin.qq.com/s/tYoUERHGti1wfuEQlpz02w)
 
@@ -14,11 +14,18 @@
 
 - [【JDBC】SQLHelper 和 PreparedStatement](https://mp.weixin.qq.com/s/7wTAAQ6-d8z3pIOE5Ox58Q)
 
-### :passenger_ship: 设计模式
+### :rocket: 设计模式
 
 - [三分钟学会观察者模式](https://mp.weixin.qq.com/s/osiy0EzbvfHxFiOwJxUlUg)
 
-### :crossed_fingers: ​其他
+### :ear_of_rice: 其他
 
 - [小哥哥小姐姐都掌握的git和github](https://mp.weixin.qq.com/s/-85xW5BbGyMGlBAMaQD6eA)
 
+### :crossed_fingers: 关注公众号
+
+<img src="https://s1.ax1x.com/2020/04/09/G5b8QP.png" alt="三朝猿老" style="zoom: 67%;" />
+
+### :crossed_fingers: 联系我
+
+<img src="https://s1.ax1x.com/2020/04/09/G5HDbD.jpg" alt="G5HDbD.jpg" style="zoom:80%;" />
