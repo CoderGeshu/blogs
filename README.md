@@ -24,8 +24,8 @@
 
 ### :crossed_fingers: 关注公众号
 
-<img src="https://s1.ax1x.com/2020/04/09/G5b8QP.png" alt="三朝猿老" style="zoom: 67%;" />
+<img src="https://s1.ax1x.com/2020/04/09/G5b8QP.png" alt="三朝猿老" style="zoom: 50%;" />
 
 ### :crossed_fingers: 联系我
 
-<img src="https://s1.ax1x.com/2020/04/09/G5HDbD.jpg" alt="G5HDbD.jpg" style="zoom:80%;" />
+<img src="https://s1.ax1x.com/2020/04/09/G5HDbD.jpg" alt="我的微信" style="zoom:80%;" />
