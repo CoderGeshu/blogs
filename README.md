@@ -9,6 +9,7 @@
 ### :books: 数据库
 
 - [MySQL必知必会笔记（1）](https://mp.weixin.qq.com/s/tYoUERHGti1wfuEQlpz02w)
+- [MySQL必知必会笔记（2）——函数集合](https://mp.weixin.qq.com/s/Lf8JhrAoFfGL2AKwViqX7Q)
 
 ### :ticket: JDBC编程技术
 
