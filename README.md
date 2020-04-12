@@ -10,6 +10,7 @@
 
 - [MySQL必知必会笔记（1）](https://mp.weixin.qq.com/s/tYoUERHGti1wfuEQlpz02w)
 - [MySQL必知必会笔记（2）——函数集合](https://mp.weixin.qq.com/s/Lf8JhrAoFfGL2AKwViqX7Q)
+- [MySQL必知必会笔记（3）](https://mp.weixin.qq.com/s/VaV-drN7sT8PNV6K8ZV_GA)
 
 ### :ticket: JDBC编程技术
 
