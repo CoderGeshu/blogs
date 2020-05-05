@@ -1,6 +1,7 @@
 ### :star2: Java基础知识
 
 - [一文搞定Java代码块加载顺序](https://mp.weixin.qq.com/s/IzFnnHFk5W-XaSidm54vxw)
+- [Class类型详解](https://mp.weixin.qq.com/s/JS9TDZXGfzB-wWWw9g8P_Q)
 
 ### :deciduous_tree:数据结构和算法
 
