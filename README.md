@@ -21,6 +21,7 @@
 ### :rocket: 设计模式
 
 - [三分钟学会观察者模式](https://mp.weixin.qq.com/s/osiy0EzbvfHxFiOwJxUlUg)
+- [最简单上手的单例模式](https://mp.weixin.qq.com/s/9CM07Of1E11K_wFefKXOhQ)
 
 ### :ear_of_rice: 其他
 
