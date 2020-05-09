@@ -2,6 +2,7 @@
 
 - [一文搞定Java代码块加载顺序](https://mp.weixin.qq.com/s/IzFnnHFk5W-XaSidm54vxw)
 - [Class类型详解](https://mp.weixin.qq.com/s/JS9TDZXGfzB-wWWw9g8P_Q)
+- [五分钟掌握Java注解](https://mp.weixin.qq.com/s/qahqm7abJzn0rZDHoZXj-Q)
 
 ### :deciduous_tree:数据结构和算法
 
