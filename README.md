@@ -40,20 +40,6 @@
 
 
 
-### :book: 高清电子书PDF
-
-- **《深入理解Java虚拟机 第3版》**
-
-链接：https://pan.baidu.com/s/1zIXLKzhpv55v_Z7GunXzFg 
-提取码：w9le 
-
-- **《算法 第4版》**
-
-链接：https://pan.baidu.com/s/11wBtYTTlUilqsJNH0yIdfw 
-提取码：487t 
-
-
-
 ### :crossed_fingers: 关注公众号
 
 <img src="https://s1.ax1x.com/2020/04/09/G5b8QP.png" alt="三朝猿老" style="zoom: 50%;" />
