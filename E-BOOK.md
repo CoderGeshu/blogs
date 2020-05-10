@@ -14,6 +14,8 @@ https://pan.baidu.com/s/1zIXLKzhpv55v_Z7GunXzFg
 
 提取码：w9le 
 
+
+
 - **《算法 第4版》**
 
 链接：
@@ -21,3 +23,13 @@ https://pan.baidu.com/s/1zIXLKzhpv55v_Z7GunXzFg
 https://pan.baidu.com/s/11wBtYTTlUilqsJNH0yIdfw 
 
 提取码：487t 
+
+
+
+- 《算法设计与分析基础 第3版》
+
+链接：
+
+https://pan.baidu.com/s/1fIyVRr2HX_8x0_gH1t2L0A 
+
+提取码：cdnt 
