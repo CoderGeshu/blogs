@@ -3,6 +3,8 @@
 - [一文搞定Java代码块加载顺序](https://mp.weixin.qq.com/s/IzFnnHFk5W-XaSidm54vxw)
 - [Class类型详解](https://mp.weixin.qq.com/s/JS9TDZXGfzB-wWWw9g8P_Q)
 - [五分钟掌握Java注解](https://mp.weixin.qq.com/s/qahqm7abJzn0rZDHoZXj-Q)
+- [乐观锁——CAS机制](https://mp.weixin.qq.com/s/m14ko-IXTJzPx8HFc6T57g)
+- [谈一谈创建线程的几种方式](https://mp.weixin.qq.com/s/N9UvxmvXi4tgPdVLo67Jpw)
 
 
 
