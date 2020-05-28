@@ -5,6 +5,7 @@
 - [五分钟掌握Java注解](https://mp.weixin.qq.com/s/qahqm7abJzn0rZDHoZXj-Q)
 - [乐观锁——CAS机制](https://mp.weixin.qq.com/s/m14ko-IXTJzPx8HFc6T57g)
 - [谈一谈创建线程的几种方式](https://mp.weixin.qq.com/s/N9UvxmvXi4tgPdVLo67Jpw)
+- [Java中的synchronized锁？？](https://mp.weixin.qq.com/s/tB-P3cr728ieKwQP2X2Mjg)
 
 
 
@@ -39,6 +40,7 @@
 ### :ear_of_rice: 其他
 
 - [小哥哥小姐姐都掌握的git和github](https://mp.weixin.qq.com/s/-85xW5BbGyMGlBAMaQD6eA)
+- [一文掌握IDEA中使用JUnit4测试](https://mp.weixin.qq.com/s/Xdovm9z3vNHwvdw8mA3CiQ)
 
 
 
