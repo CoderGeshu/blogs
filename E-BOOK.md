@@ -14,6 +14,8 @@ https://pan.baidu.com/s/1zIXLKzhpv55v_Z7GunXzFg
 
 提取码：w9le 
 
+解压密码：在公众号“三朝猿老”回复：**Java虚拟机**，即可获取。
+
 
 
 - **《算法 第4版》**
@@ -24,15 +26,7 @@ https://pan.baidu.com/s/11wBtYTTlUilqsJNH0yIdfw
 
 提取码：487t 
 
-
-
-- **《算法设计与分析基础 第3版》**
-
-链接：
-
-https://pan.baidu.com/s/1fIyVRr2HX_8x0_gH1t2L0A 
-
-提取码：cdnt 
+解压密码：在公众号“三朝猿老”回复：**算法红宝书**，即可获取。
 
 
 
@@ -44,6 +38,8 @@ https://pan.baidu.com/s/1UPRRzEZtGa-jjgZUSilbYA
 
 提取码：ax6m
 
+解压密码：在公众号“三朝猿老”回复：**计算机网络**，即可获取。
+
 
 
 - 《鸟哥Linux私房菜 第四版》
@@ -53,3 +49,5 @@ https://pan.baidu.com/s/1UPRRzEZtGa-jjgZUSilbYA
 https://pan.baidu.com/s/1VKZxDzqcorecfjupQL7KXQ 
 
 提取码：78yb
+
+解压密码：在公众号“三朝猿老”回复：**私房菜**，即可获取。
