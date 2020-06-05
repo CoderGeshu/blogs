@@ -40,6 +40,7 @@
 ### :ear_of_rice: 其他
 
 - [小哥哥小姐姐都掌握的git和github](https://mp.weixin.qq.com/s/-85xW5BbGyMGlBAMaQD6eA)
+- [git命令大全](https://mp.weixin.qq.com/s/Lbn0fg4KGWHC98c9VcXzyw)
 - [一文掌握IDEA中使用JUnit4测试](https://mp.weixin.qq.com/s/Xdovm9z3vNHwvdw8mA3CiQ)
 
 
