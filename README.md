@@ -6,6 +6,7 @@
 - [乐观锁——CAS机制](https://mp.weixin.qq.com/s/m14ko-IXTJzPx8HFc6T57g)
 - [谈一谈创建线程的几种方式](https://mp.weixin.qq.com/s/N9UvxmvXi4tgPdVLo67Jpw)
 - [Java中的synchronized锁？？](https://mp.weixin.qq.com/s/tB-P3cr728ieKwQP2X2Mjg)
+- [Java中volatile关键字的最全总结](https://mp.weixin.qq.com/s/LdXf_D5n49uNcygwcSs3FA)
 
 
 
