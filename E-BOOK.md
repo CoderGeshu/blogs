@@ -8,11 +8,9 @@
 
 - **《深入理解Java虚拟机 第3版》**
 
-链接：
+链接：https://pan.baidu.com/s/10cHo8ZhW7L7H2G7AsP7fDw 
 
-https://pan.baidu.com/s/1zIXLKzhpv55v_Z7GunXzFg 
-
-提取码：w9le 
+提取码：rl32
 
 解压密码：在公众号“三朝猿老”回复：**Java虚拟机**，即可获取。
 
