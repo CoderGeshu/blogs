@@ -13,6 +13,7 @@
 ### :deciduous_tree:数据结构和算法
 
 - [排序算法【计数排序】](https://mp.weixin.qq.com/s/PLKbj3-7cy1TsO3YVyzewQ)
+- [六一儿童节——小朋友，您的算法题安排上](https://mp.weixin.qq.com/s/9uLH8rZdzH5byYHKDfFjyg)
 
 
 
