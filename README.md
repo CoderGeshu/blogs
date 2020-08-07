@@ -7,6 +7,7 @@
 - [谈一谈创建线程的几种方式](https://mp.weixin.qq.com/s/N9UvxmvXi4tgPdVLo67Jpw)
 - [Java中的synchronized锁？？](https://mp.weixin.qq.com/s/tB-P3cr728ieKwQP2X2Mjg)
 - [Java中volatile关键字的最全总结](https://mp.weixin.qq.com/s/LdXf_D5n49uNcygwcSs3FA)
+- [简单了解一下Java反射技术？](https://mp.weixin.qq.com/s/g-DS3ah4xBAEAe5N32Wmow)
 
 
 
@@ -36,6 +37,7 @@
 
 - [三分钟学会观察者模式](https://mp.weixin.qq.com/s/osiy0EzbvfHxFiOwJxUlUg)
 - [最简单上手的单例模式](https://mp.weixin.qq.com/s/9CM07Of1E11K_wFefKXOhQ)
+- [JDK动态代理模式](https://mp.weixin.qq.com/s/0hLPjpDtCHhTnP1LDM-y8A)
 
 
 
