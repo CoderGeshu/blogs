@@ -38,6 +38,7 @@
 - [三分钟学会观察者模式](https://mp.weixin.qq.com/s/osiy0EzbvfHxFiOwJxUlUg)
 - [最简单上手的单例模式](https://mp.weixin.qq.com/s/9CM07Of1E11K_wFefKXOhQ)
 - [JDK动态代理模式](https://mp.weixin.qq.com/s/0hLPjpDtCHhTnP1LDM-y8A)
+- [一文了解拦截器与拦截器链的实现](https://mp.weixin.qq.com/s/VzeA9FhyjnLp6pwDdSREAg)
 
 
 
