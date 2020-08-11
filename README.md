@@ -8,6 +8,7 @@
 - [Java中的synchronized锁？？](https://mp.weixin.qq.com/s/tB-P3cr728ieKwQP2X2Mjg)
 - [Java中volatile关键字的最全总结](https://mp.weixin.qq.com/s/LdXf_D5n49uNcygwcSs3FA)
 - [简单了解一下Java反射技术？](https://mp.weixin.qq.com/s/g-DS3ah4xBAEAe5N32Wmow)
+- [一看就会的序列化和反序列化知识](https://mp.weixin.qq.com/s/CPwyizD-KFQKHoGFgFWd7A)
 
 
 
