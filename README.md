@@ -9,6 +9,7 @@
 - [Java中volatile关键字的最全总结](https://mp.weixin.qq.com/s/LdXf_D5n49uNcygwcSs3FA)
 - [简单了解一下Java反射技术？](https://mp.weixin.qq.com/s/g-DS3ah4xBAEAe5N32Wmow)
 - [一看就会的序列化和反序列化知识](https://mp.weixin.qq.com/s/CPwyizD-KFQKHoGFgFWd7A)
+- [【JDBC】SQLHelper 和 PreparedStatement](https://mp.weixin.qq.com/s/7wTAAQ6-d8z3pIOE5Ox58Q)
 
 
 
@@ -25,12 +26,6 @@
 - [MySQL必知必会笔记（2）——函数集合](https://mp.weixin.qq.com/s/Lf8JhrAoFfGL2AKwViqX7Q)
 - [MySQL必知必会笔记（3）](https://mp.weixin.qq.com/s/VaV-drN7sT8PNV6K8ZV_GA)
 - [MySQL必知必会笔记（4）](https://mp.weixin.qq.com/s/YJ84DHZ2BMONQE7Q12bQJQ)
-
-
-
-### :ticket: JDBC编程技术
-
-- [【JDBC】SQLHelper 和 PreparedStatement](https://mp.weixin.qq.com/s/7wTAAQ6-d8z3pIOE5Ox58Q)
 
 
 
