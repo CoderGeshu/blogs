@@ -27,6 +27,8 @@
 - [MySQL必知必会笔记（3）](https://mp.weixin.qq.com/s/VaV-drN7sT8PNV6K8ZV_GA)
 - [MySQL必知必会笔记（4）](https://mp.weixin.qq.com/s/YJ84DHZ2BMONQE7Q12bQJQ)
 
+
+
 ### :ocean: 操作系统
 
 - [处理机调度——看这一篇就够了](https://mp.weixin.qq.com/s/CAuT_h-KP1JeL2hvf-YLeA)
@@ -60,8 +62,8 @@
 
 ### :crossed_fingers: 关注公众号
 
-<img src="https://s1.ax1x.com/2020/04/09/G5b8QP.png" alt="三朝猿老" style="zoom: 50%;" />
+<img src="https://gitee.com/eric0228/pic-go-images/raw/master/img/文末推广.png" style="zoom: 33%;" />
 
 ### :crossed_fingers: 联系我
 
-<img src="https://s1.ax1x.com/2020/04/09/G5HDbD.jpg" alt="我的微信" style="zoom:80%;" />
+<img src="https://gitee.com/eric0228/pic-go-images/raw/master/img/微信二维码.jpg" style="zoom:50%;" />
