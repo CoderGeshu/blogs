@@ -10,6 +10,7 @@
 - [简单了解一下Java反射技术？](https://mp.weixin.qq.com/s/g-DS3ah4xBAEAe5N32Wmow)
 - [一看就会的序列化和反序列化知识](https://mp.weixin.qq.com/s/CPwyizD-KFQKHoGFgFWd7A)
 - [【JDBC】SQLHelper 和 PreparedStatement](https://mp.weixin.qq.com/s/7wTAAQ6-d8z3pIOE5Ox58Q)
+- [Java 的 Native 方法——今天又进步了](https://mp.weixin.qq.com/s/MZOaAgZgrzg42d-MbeR90w)
 
 
 
