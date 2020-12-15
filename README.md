@@ -67,10 +67,6 @@
 
 
 
-### :crossed_fingers: 关注公众号
+### :crossed_fingers: 联系我 & 公众号
 
-<img src="https://gitee.com/eric0228/pic-go-images/raw/master/img/文末推广.png" style="zoom: 33%;" />
-
-### :crossed_fingers: 联系我
-
-<img src="https://gitee.com/eric0228/pic-go-images/raw/master/img/微信二维码.jpg" style="zoom:50%;" />
+一个人可以走的很快，而一群人可以走的很远——点击👉[@CoderGeshu](https://mp.weixin.qq.com/s/IziWp01QgxlSUUuICP6_FQ)，来交个朋友吧！
