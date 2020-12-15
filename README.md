@@ -1,3 +1,9 @@
+**『 寄语：即使再小的帆也能远航 』**
+
+文章概览：
+
+[TOC]
+
 ### :star2: Java基础知识
 
 - [一文搞定Java代码块加载顺序](https://mp.weixin.qq.com/s/IzFnnHFk5W-XaSidm54vxw)
@@ -58,7 +64,7 @@
 
 
 
-### :ear_of_rice: 其他
+### :ear_of_rice: 必备工具技能
 
 - [快速掌握Git和GitHub的基本使用](https://mp.weixin.qq.com/s/D7qoZthkTfzi2LWRjVd0VA)
 
@@ -69,4 +75,4 @@
 
 ### :crossed_fingers: 联系我 & 公众号
 
-一个人可以走的很快，而一群人可以走的很远——点击👉[@CoderGeshu](https://mp.weixin.qq.com/s/IziWp01QgxlSUUuICP6_FQ)，来交个朋友吧！
+一个人可以走的很快，而一群人可以走的很远——点击 👉 [@CoderGeshu](https://mp.weixin.qq.com/s/IziWp01QgxlSUUuICP6_FQ)，来交个朋友吧！
