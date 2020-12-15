@@ -1,9 +1,5 @@
 **『 寄语：即使再小的帆也能远航 』**
 
-文章概览：
-
-[TOC]
-
 ### :star2: Java基础知识
 
 - [一文搞定Java代码块加载顺序](https://mp.weixin.qq.com/s/IzFnnHFk5W-XaSidm54vxw)
