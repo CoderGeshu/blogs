@@ -58,6 +58,7 @@
 
 - [手撸一个 SSM 的登录功能](https://mp.weixin.qq.com/s/vjkTl4NBHSEvnG4rpXchLQ)
 - [逆向工程Mybatis Generator代码生成](https://mp.weixin.qq.com/s/bhDaZVEpULZvQ71Jc3bxtQ)
+- [一个小巧且容易上手的SSM项目](https://mp.weixin.qq.com/s/-cNBKRMzXqtRNJQ1eVbVCQ)
 
 
 
