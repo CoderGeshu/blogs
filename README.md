@@ -29,6 +29,7 @@
 - [MySQL必知必会笔记（2）——函数集合](https://mp.weixin.qq.com/s/Lf8JhrAoFfGL2AKwViqX7Q)
 - [MySQL必知必会笔记（3）](https://mp.weixin.qq.com/s/VaV-drN7sT8PNV6K8ZV_GA)
 - [MySQL必知必会笔记（4）](https://mp.weixin.qq.com/s/YJ84DHZ2BMONQE7Q12bQJQ)
+- [CAP理论？BASE模型？——NoSQL学习第一弹](https://mp.weixin.qq.com/s/y1DJwr-NGitEXTJyW4cj_w)
 
 
 
