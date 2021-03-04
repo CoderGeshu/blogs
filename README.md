@@ -1,6 +1,6 @@
 **『 寄语：即使再小的帆也能远航 』**
 
-### :star2: Java基础知识
+### :star2: 爪哇杂谈
 
 - [一文搞定Java代码块加载顺序](https://mp.weixin.qq.com/s/IzFnnHFk5W-XaSidm54vxw)
 - [Class类型详解](https://mp.weixin.qq.com/s/JS9TDZXGfzB-wWWw9g8P_Q)
@@ -9,21 +9,18 @@
 - [谈一谈创建线程的几种方式](https://mp.weixin.qq.com/s/N9UvxmvXi4tgPdVLo67Jpw)
 - [Java中的synchronized锁？？](https://mp.weixin.qq.com/s/tB-P3cr728ieKwQP2X2Mjg)
 - [Java中volatile关键字的最全总结](https://mp.weixin.qq.com/s/LdXf_D5n49uNcygwcSs3FA)
+- [手撸一个 SSM 的登录功能](https://mp.weixin.qq.com/s/vjkTl4NBHSEvnG4rpXchLQ)
+- [逆向工程Mybatis Generator代码生成](https://mp.weixin.qq.com/s/bhDaZVEpULZvQ71Jc3bxtQ)
 - [简单了解一下Java反射技术？](https://mp.weixin.qq.com/s/g-DS3ah4xBAEAe5N32Wmow)
 - [一看就会的序列化和反序列化知识](https://mp.weixin.qq.com/s/CPwyizD-KFQKHoGFgFWd7A)
 - [【JDBC】SQLHelper 和 PreparedStatement](https://mp.weixin.qq.com/s/7wTAAQ6-d8z3pIOE5Ox58Q)
 - [Java 的 Native 方法——今天又进步了](https://mp.weixin.qq.com/s/MZOaAgZgrzg42d-MbeR90w)
+- [一个小巧且容易上手的SSM项目](https://mp.weixin.qq.com/s/-cNBKRMzXqtRNJQ1eVbVCQ)
+- [Spring 核心之一 —— AOP 概念及原理](https://mp.weixin.qq.com/s/duy6vYdlBbDZQi1nMLrZrw)
 
 
 
-### :deciduous_tree:数据结构和算法
-
-- [排序算法【计数排序】](https://mp.weixin.qq.com/s/PLKbj3-7cy1TsO3YVyzewQ)
-- [六一儿童节——小朋友，您的算法题安排上](https://mp.weixin.qq.com/s/9uLH8rZdzH5byYHKDfFjyg)
-
-
-
-### :books: 数据库
+### :books: 数据库（Cool）
 
 - [MySQL必知必会笔记（1）](https://mp.weixin.qq.com/s/tYoUERHGti1wfuEQlpz02w)
 - [MySQL必知必会笔记（2）——函数集合](https://mp.weixin.qq.com/s/Lf8JhrAoFfGL2AKwViqX7Q)
@@ -33,14 +30,9 @@
 
 
 
-### :ocean: 操作系统
+### :ocean: 计算机系统
 
 - [处理机调度——看这一篇就够了](https://mp.weixin.qq.com/s/CAuT_h-KP1JeL2hvf-YLeA)
-
-
-
-### :cloud_with_snow: Docker 容器
-
 - [一文搞定 Docker 入门](https://mp.weixin.qq.com/s/0QqIv_gceYr8KAtw-XzyBA)
 
 
@@ -52,15 +44,6 @@
 - [JDK动态代理模式](https://mp.weixin.qq.com/s/0hLPjpDtCHhTnP1LDM-y8A)
 - [一文了解拦截器与拦截器链的实现](https://mp.weixin.qq.com/s/VzeA9FhyjnLp6pwDdSREAg)
 - [这可能是最易理解的工厂模式的讲解了](https://mp.weixin.qq.com/s/Fkk46QMwC_LYxt09J7Z-yg)
-
-
-
-### :eye_speech_bubble: SSM 框架
-
-- [手撸一个 SSM 的登录功能](https://mp.weixin.qq.com/s/vjkTl4NBHSEvnG4rpXchLQ)
-- [逆向工程Mybatis Generator代码生成](https://mp.weixin.qq.com/s/bhDaZVEpULZvQ71Jc3bxtQ)
-- [一个小巧且容易上手的SSM项目](https://mp.weixin.qq.com/s/-cNBKRMzXqtRNJQ1eVbVCQ)
-- [Spring 核心之一 —— AOP 概念及原理](https://mp.weixin.qq.com/s/duy6vYdlBbDZQi1nMLrZrw)
 
 
 
