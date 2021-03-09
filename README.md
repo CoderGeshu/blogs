@@ -27,6 +27,7 @@
 - [MySQL必知必会笔记（3）](https://mp.weixin.qq.com/s/VaV-drN7sT8PNV6K8ZV_GA)
 - [MySQL必知必会笔记（4）](https://mp.weixin.qq.com/s/YJ84DHZ2BMONQE7Q12bQJQ)
 - [CAP理论？BASE模型？——NoSQL学习第一弹](https://mp.weixin.qq.com/s/y1DJwr-NGitEXTJyW4cj_w)
+- [为了彻底搞清楚数据库 E-R 模型设计，我肝了这篇万字长文](https://mp.weixin.qq.com/s/oAwnyNj6t6cmhaad4DGZpw)
 
 
 
