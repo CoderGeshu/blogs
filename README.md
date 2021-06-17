@@ -17,6 +17,7 @@
 - [Java 的 Native 方法——今天又进步了](https://mp.weixin.qq.com/s/MZOaAgZgrzg42d-MbeR90w)
 - [一个小巧且容易上手的SSM项目](https://mp.weixin.qq.com/s/-cNBKRMzXqtRNJQ1eVbVCQ)
 - [Spring 核心之一 —— AOP 概念及原理](https://mp.weixin.qq.com/s/duy6vYdlBbDZQi1nMLrZrw)
+- [Java Lambda 表达式和双冒号语法](https://mp.weixin.qq.com/s/5xixmBejY_iDfPtUgAF72g)
 
 
 
